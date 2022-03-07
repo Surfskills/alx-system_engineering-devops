@@ -1,1 +1,1 @@
-My readme message
+echo "Hello, World"
