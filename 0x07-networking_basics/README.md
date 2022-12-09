@@ -6,6 +6,8 @@ It is organized from the lowest level to the highest level:
 
 The lowest level: layer 1 which is for transmission on physical layers with electrical impulse, light or radio signal
 The highest level: layer 7 which is for application specific communication like SNMP for emails, HTTP for your web browser, etc
+![image](https://user-images.githubusercontent.com/99356176/206593866-09744e68-4895-426c-9df9-e61648eeef9e.png)
+
 Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI model doesn’t perform any functions in the networking process. It is a conceptual framework so we can better understand complex interactions that are happening. Most of the functionality in the OSI model exists in all communications systems.
 
 
@@ -15,6 +17,7 @@ In this project we will mainly focus on:
 The Transport layer and especially TCP/UDP
 On the Network layer with IP and ICMP
 The image bellow describes more concretely how you can relate to every level.
+![image](https://user-images.githubusercontent.com/99356176/206593895-e564b6b7-c155-4e84-9c43-64f6484f3430.png)
 
 
 
